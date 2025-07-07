@@ -1,4 +1,4 @@
-a = 98
+a = 95
 
 if a < 50
 	puts "student is fail"
